@@ -17,7 +17,7 @@ import ListingDetail from "./Pages/ListingDetail";
 import UpdateListing from "./Pages/UpdateListing";
 import Search from "./Pages/Search";
 
-axios.defaults.baseURL = "http://localhost:2000/";
+axios.defaults.baseURL = "https://real-estate-api-pink.vercel.app/";
 axios.defaults.headers.post["Content-Type"] = "application/json";
 axios.defaults.withCredentials = true;
 
