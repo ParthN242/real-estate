@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Cottage in the Heart of Willow",
+    "description": "This cozy 2-bedroom, 1-bathroom cottage is the perfect place to call home. Nestled in the picturesque neighborhood of Willowbrook, you'll enjoy a spacious backyard, a bright and airy interior, and easy access to the local park. Ideal for couples or small families.",
+    "address": "123 Maple Lane, Willowbrook, FAKE123",
+    "regularPrice": 550,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "furnished": true,
+    "parking": true,
+    "type": "rent",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": true,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693270025466home-2.jpeg?alt=media&token=479040c7-953e-4d8c-9735-08c043d2e9f1",
+        "fileName": "none"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1695430030893home%203.jpeg?alt=media&token=4e76326e-aec1-4249-ab7b-4d919d41462a",
+        "fileName": "none"
+      }
+    ],
+    "discountPrice": 530
+  },
+  {
+    "title": "Tranquil Lakeside Retreat",
+    "description": "Escape the hustle and bustle of city life in this 4-bedroom, 2-bathroom lakeside home. Fish off your own private dock, take in breathtaking sunsets from the screened porch, and unwind in the spacious master suite. Perfect for nature enthusiasts.",
+    "address": "789 Serenity Drive, Lakeview Haven, FAKE789",
+    "regularPrice": 736000,
+    "bathrooms": 4,
+    "bedrooms": 2,
+    "furnished": true,
+    "parking": false,
+    "type": "sale",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": true,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693100979175luxury-home-in-dubai---3.png?alt=media&token=fa094ff8-7bc1-4c47-9028-67ae5983af27",
+        "fileName": "none"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693100979177luxury-home-with-amazing-view-0.png?alt=media&token=4efe8cd4-6ff6-4335-97a1-c4b0d710361a",
+        "fileName": "none"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693100979177luxury-home-with-amazing-view-1.png?alt=media&token=0a2a6626-3fcc-4053-9087-328697798ecc",
+        "fileName": "none"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693100979177luxury-home-with-amazing-view-2.png?alt=media&token=8323b7d5-dd5d-412d-a741-77ddf7b8cc2d",
+        "fileName": "none"
+      }
+    ],
+    "discountPrice": 733000
+  },
+  {
+    "title": "Luxury Penthouse with Panoramic City Views",
+    "description": "Live the high life in this stunning 3-bedroom, 3.5-bathroom penthouse. With floor-to-ceiling windows, a private rooftop terrace, and top-of-the-line amenities, you'll relish every moment in this urban oasis.",
+    "address": "456 Skyline Avenue, Metroville, FAKE456",
+    "regularPrice": 600,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "furnished": false,
+    "parking": false,
+    "type": "rent",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": true,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693270558286home%201.jpeg?alt=media&token=07a0caba-f3ef-4540-b448-6601b4ae008f",
+        "fileName": "none"
+      }
+    ],
+    "discountPrice": 594
+  },
+  {
+    "title": "Modern Loft with Stunning Views",
+    "description": "Indulge in the luxury of coastal living in this elegant beachfront villa. With direct private access to the sandy shores, you can savor the sunsets and the soothing sound of the waves right from your doorstep. The villa boasts high-end finishes, a gourmet kitchen with marble countertops, and a lavish master suite with a balcony overlooking the ocean. This is your opportunity to own a slice of paradise.",
+    "address": "101 Serene Shore Road, Willow Lake",
+    "regularPrice": 1200,
+    "bathrooms": 5,
+    "bedrooms": 3,
+    "furnished": true,
+    "parking": true,
+    "type": "rent",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": false,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693307651154home-5.jpeg?alt=media&token=6bb7b8b4-9621-49d1-a440-bbfd2d0beeb6",
+        "fileName": "none"
+      }
+    ]
+  },
+  {
+    "title": "Beachfront Villa with Private Access",
+    "description": "Embrace the charm of country living in this cozy log cabin nestled by a tranquil lake. The interior features exposed wooden beams, a stone fireplace, and a spacious loft bedroom. Spend your days fishing, boating, or simply relaxing on the wraparound porch that offers stunning views of the water and surrounding forest. This idyllic retreat provides a perfect escape from the everyday hustle.",
+    "address": "789 Techno Plaza, Skyscape City",
+    "regularPrice": 945000,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "furnished": true,
+    "parking": true,
+    "type": "sale",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": false,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693307733992home-4.jpeg?alt=media&token=dc67fc6a-34af-4231-95bb-f2d9e643ddc3",
+        "fileName": "none"
+      }
+    ]
+  },
+  {
+    "title": "Ultra-Modern Penthouse in the Clouds",
+    "description": "Elevate your living experience in this state-of-the-art penthouse with futuristic design elements. This high-tech residence boasts automated lighting, a built-in home theater system, and a smart kitchen equipped with the latest culinary gadgets. Floor-to-ceiling windows provide sweeping views of both the city and the surrounding mountains. Situated in the luxurious Sky Tower complex, you'll enjoy top-notch amenities and a prime location.",
+    "address": "456 Serenity Lane, Meadowville",
+    "regularPrice": 510,
+    "bathrooms": 5,
+    "bedrooms": 6,
+    "furnished": false,
+    "parking": false,
+    "type": "rent",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": true,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693307829089home%203.jpeg?alt=media&token=8dcc9a22-a8d3-4737-b27f-7c77b417a7d0",
+        "fileName": "none"
+      }
+    ],
+    "discountPrice": 500
+  },
+  {
+    "title": "Enchanted Cottage with Lush Gardens",
+    "description": "Experience city living at its finest in this stylish and spacious loft. This open-concept unit features floor-to-ceiling windows that offer breathtaking panoramic views of the city skyline. Enjoy the convenience of a gourmet kitchen, sleek hardwood floors, and a private balcony. Located in the heart of the trendy Arts District, you'll have easy access to galleries, restaurants, and cultural events.",
+    "address": "123 Artisan Avenue, Metropolis Heights",
+    "regularPrice": 1230000,
+    "discountPrice": 0,
+    "bathrooms": 6,
+    "bedrooms": 8,
+    "furnished": false,
+    "parking": true,
+    "type": "sale",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": false,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693308322076home-13.jpeg?alt=media&token=659d9c82-97c7-4db9-94c5-28d8e381dad6",
+        "fileName": "none"
+      }
+    ]
+  },
+  {
+    "title": "Charming Log Cabin by the Lake",
+    "description": "Indulge in the luxury of coastal living in this elegant beachfront villa. With direct private access to the sandy shores, you can savor the sunsets and the soothing sound of the waves right from your doorstep. The villa boasts high-end finishes, a gourmet kitchen with marble countertops, and a lavish master suite with a balcony overlooking the ocean. This is your opportunity to own a slice of paradise.",
+    "address": "789 Techno Plaza, Skyscape City",
+    "regularPrice": 1290000,
+    "discountPrice": 0,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "furnished": false,
+    "parking": false,
+    "type": "sale",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": false,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693308406407home-12.jpeg?alt=media&token=6845fe15-22bd-4c19-abee-9cd4a66d190c",
+        "fileName": "none"
+      }
+    ]
+  },
+  {
+    "title": "Stylish and spacious loft near city",
+    "description": "Experience city living at its finest in this stylish and spacious loft. This open-concept unit features floor-to-ceiling windows that offer breathtaking panoramic views of the city skyline. Enjoy the convenience of a gourmet kitchen, sleek hardwood floors, and a private balcony. Located in the heart of the trendy Arts District, you'll have easy access to galleries, restaurants, and cultural events.",
+    "address": "434 Serenity Lane, Meadowville",
+    "regularPrice": 12000,
+    "discountPrice": 0,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "furnished": false,
+    "parking": true,
+    "type": "rent",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": false,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693308502536home-11.jpeg?alt=media&token=bb00e22b-2ced-429c-9a09-11c7f2837852",
+        "fileName": "none"
+      }
+    ]
+  },
+  {
+    "name": "Modern Penthouse in the Clouds",
+    "description": "Indulge in the luxury of coastal living in this elegant beachfront villa. With direct private access to the sandy shores, you can savor the sunsets and the soothing sound of the waves right from your doorstep. The villa boasts high-end finishes, a gourmet kitchen with marble countertops, and a lavish master suite with a balcony overlooking the ocean. This is your opportunity to own a slice of paradise.",
+    "address": "785 Serene Shore Road, Willow Lake",
+    "regularPrice": 3400,
+    "discountPrice": 0,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "furnished": false,
+    "parking": false,
+    "type": "rent",
+    "userRef": "65bdbf234d0615fe6b2eca34",
+    "offer": false,
+    "imageUrls": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mern-auth-1c4ae.appspot.com/o/1693308994623home-8.jpeg?alt=media&token=704e357e-b214-4859-8dc3-054ca49928c1",
+        "fileName": "none"
+      }
+    ]
+  }
+]

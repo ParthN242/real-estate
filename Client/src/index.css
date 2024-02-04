@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(241, 245, 241);
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  bottom: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  height: 80px;
+  border: 6px solid rgba(16, 34, 57, 0.267);
+  border-bottom-color: rgb(41 97 171);
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+  100% {
+    transform: translate(-50%, -50%) rotateZ(360deg);
+  }
+}
