@@ -4,12 +4,13 @@ import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { signUpUser } from "../Redux/User/userApi";
 import { clearState } from "../Redux/User/userSlice";
+import Loading from "../Components/Loading";
 
 const SignUp = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
 
-  const { error, success } = useSelector((state) => state.user);
+  const { error, success, loading } = useSelector((state) => state.user);
 
   const [formData, setFormData] = useState({});
 
@@ -28,6 +29,10 @@ const SignUp = () => {
       navigate("/signin");
     }
   }, [success]);
+
+  if (loading) {
+    <Loading />;
+  }
 
   return (
     <main className="max-w-lg m-auto p-3">

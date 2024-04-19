@@ -15,6 +15,7 @@ const Search = () => {
     sort: "created_at",
     order: "desc",
   });
+  console.log("sidebardata: ", sidebardata);
   const { listings, loading = ture } = useSelector(
     (state) => state.listing.allListings
   );
@@ -25,6 +26,7 @@ const Search = () => {
 
   // Handle Change
   const handleChange = (e) => {
+    console.log("e: ", e.target.checked);
     if (
       e.target.id === "all" ||
       e.target.id === "rent" ||
@@ -40,7 +42,7 @@ const Search = () => {
     )
       setSidebardata({
         ...sidebardata,
-        [e.target.id]: e.target.checked === "true" ? true : false,
+        [e.target.id]: e.target.checked === true ? true : false,
       });
 
     if (e.target.id === "searchTerm")
